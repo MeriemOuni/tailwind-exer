@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(247, 247, 245);
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+	margin-top: 2%;
+}
+
+.skills {
+	margin: 2% 5%;
+}
